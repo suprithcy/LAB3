@@ -25,4 +25,4 @@ jobs:
 
       - name: Running tests
         run: |
-          python -m adiition
+          python -m adiition.py
