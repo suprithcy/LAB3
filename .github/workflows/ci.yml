@@ -25,4 +25,4 @@ jobs:
 
       - name: Running tests
         run: |
-          python -m test_addition
+          python -m addition
